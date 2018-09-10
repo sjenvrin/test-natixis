@@ -64,4 +64,11 @@ DELETE  /tasks/{taskId}
 ```
 **Description :** Delete one task.
 
+## Unit Test
+
+Execute the following command line to execute the tests.
+```bash
+mvnw clean test
+```
+
 
